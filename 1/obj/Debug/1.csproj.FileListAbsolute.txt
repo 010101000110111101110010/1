@@ -1,0 +1,10 @@
+C:\Users\Torunn\Desktop\1\1\1\bin\Debug\1.exe.config
+C:\Users\Torunn\Desktop\1\1\1\bin\Debug\1.exe
+C:\Users\Torunn\Desktop\1\1\1\bin\Debug\1.pdb
+C:\Users\Torunn\Desktop\1\1\1\bin\Debug\lib1.dll
+C:\Users\Torunn\Desktop\1\1\1\bin\Debug\lib1.pdb
+C:\Users\Torunn\Desktop\1\1\1\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\Torunn\Desktop\1\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Torunn\Desktop\1\1\1\obj\Debug\1.csproj.CopyComplete
+C:\Users\Torunn\Desktop\1\1\1\obj\Debug\1.exe
+C:\Users\Torunn\Desktop\1\1\1\obj\Debug\1.pdb
